@@ -1,0 +1,17 @@
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  width: 250px;
+}
+
+.card button {
+  background-color: rgb(180, 104, 166);
+}
